@@ -1,0 +1,47 @@
+{
+    "version": "0.1",
+    "fields": [
+        {
+            "name": "numeric1",
+            "section": "number",
+            "type": "int",
+            "min": 0
+        },
+        {
+            "name": "numeric2",
+            "section": "number",
+            "type": "int",
+            "max": 0
+        },
+        {
+            "name": "numeric3",
+            "section": "number",
+            "type": "int",
+            "selectables": [0, 1, 2]
+        },
+        {
+            "name": "numeric4",
+            "section": "number",
+            "type": "list-int",
+            "min": 0
+        },
+        {
+            "name": "numeric5",
+            "section": "number",
+            "type": "list-int",
+            "max": 0
+        },
+        {
+            "name": "numeric6",
+            "section": "number",
+            "type": "list-int",
+            "selectables": [0, 1, 2]
+        },
+        {
+            "name": "string1",
+            "section": "str",
+            "type": "str",
+            "selectables": ["1", "2", "3"]
+        }
+    ]
+}
