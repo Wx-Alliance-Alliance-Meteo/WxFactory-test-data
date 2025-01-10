@@ -10,7 +10,7 @@
             "name": "y",
             "section": "variable",
             "type": "int",
-            "dependancy": {
+            "dependency": {
                 "name": "x",
                 "values": [1, 2, 3]
             }
