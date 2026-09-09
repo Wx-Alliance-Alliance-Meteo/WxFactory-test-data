@@ -1,0 +1,10 @@
+{
+  "description": "Stacked dataset per lat/lon grid point",
+  "note": "Variables renamed by original names and levels.",
+  "_ARRAY_DIMENSIONS": [
+    "time",
+    "features",
+    "latitude",
+    "longitude"
+  ]
+}
